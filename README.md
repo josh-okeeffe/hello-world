@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Greetings fellow human!
+
+I've had noodles on Mars and find them far superior to Earth noodles. True story.
+
+Goodbye.
